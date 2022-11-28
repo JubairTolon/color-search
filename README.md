@@ -3,6 +3,7 @@
 Live site: [Color-fill](https://github.com/facebook/create-react-app).
 
 ## Technologies
-* Bullet list
+* React
+* Tailwind
 
 
